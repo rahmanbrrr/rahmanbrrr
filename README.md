@@ -14,9 +14,9 @@ aka **rahmanbrrr** — a first year student studying Computer Science & Engineer
 - Contribute to an open-source repo (even if it’s just fixing a typo!)
 
 **I Believe In**  
-> Learning by doing.  
-> Asking questions.  
-> Getting better every day.
+- Learning by doing.  
+- Asking questions.  
+- Getting better every day.
 
 **Let’s Connect & Grow Together**  
 - Always open to tips, advice, or a good coding meme  
